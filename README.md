@@ -1,2 +1,2 @@
-# Project-42-in-progress
-Created using VS code. THIS PROJECT IS STILL IN PROGRESS
+# p5.play-boilerplate
+Boiler plate for p5.play
